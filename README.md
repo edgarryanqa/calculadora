@@ -1,10 +1,10 @@
 Este código em Java é um programa simples que solicita dois números e uma operação matemática ao usuário e, em seguida, executa a operação escolhida. Vamos analisar linha por linha:
 
-1. `package primeiroprograma;`: Esta linha declara que a classe está no pacote chamado `helloword`.
+1. `package primeiroprograma;`: Esta linha declara que a classe está no pacote chamado `primeiroprograma`.
 
 2. `import java.util.Scanner;`: Esta linha importa a classe `Scanner` do pacote `java.util`, que é usada para ler a entrada do usuário.
 
-3. `public class Calculadora {`: Aqui começa a declaração da classe `HelloWord`.
+3. `public class Calculadora {`: Aqui começa a declaração da classe `Calculadora`.
 
 4. `public static void main(String[] args) {`: Este é o método principal `main`, onde o programa começa a ser executado.
 
