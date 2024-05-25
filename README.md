@@ -1,4 +1,3 @@
-Claro, vou explicar o código em termos gerais, sem usar partes específicas do código:
 
 1. O programa começa solicitando dois números e uma operação matemática ao usuário.
 2. Ele armazena os números e a escolha da operação.
