@@ -1,6 +1,5 @@
 
-
-Este código em Java é um programa simples que solicita dois números e uma operação matemática ao usuário e, em seguida, executa a operação escolhida. Vamos analisar linha por linha:
+ 
 
 1. `package primeiroprograma;`: Esta linha declara que a classe está no pacote chamado `primeiroprograma`.
 
